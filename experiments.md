@@ -5,7 +5,7 @@
 ### Procedure
 1. Go to **Cartesian Mode**
 2. Move X from -10 to +10, then Y, then Z
-3. Record the end effector position from the Info panel
+3. Record the end effector position
 
 ### Data
 
